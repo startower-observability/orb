@@ -13,12 +13,12 @@ StarTower Orb is a Go library that provides automatic OpenTelemetry instrumentat
 
 ## Features
 
-- 🔍 **Automatic Tracing**: Instruments RabbitMQ publish and consume operations
-- 🌐 **Context Propagation**: Propagates trace context via W3C headers in message headers
-- 📊 **Semantic Conventions**: Follows OpenTelemetry semantic conventions for messaging
-- 🎛️ **Configurable**: Customizable tracers, propagators, and span attributes
-- 🚀 **Drop-in Replacement**: Minimal changes to existing `amqp091-go` code
-- 🧪 **Production Ready**: Comprehensive error handling and graceful degradation
+-  **Automatic Tracing**: Instruments RabbitMQ publish and consume operations
+-  **Context Propagation**: Propagates trace context via W3C headers in message headers
+-  **Semantic Conventions**: Follows OpenTelemetry semantic conventions for messaging
+-  **Configurable**: Customizable tracers, propagators, and span attributes
+-  **Drop-in Replacement**: Minimal changes to existing `amqp091-go` code
+-  **Production Ready**: Comprehensive error handling and graceful degradation
 
 ## Installation
 
