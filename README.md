@@ -1,7 +1,13 @@
-# StarTower Orb - RabbitMQ OpenTelemetry Instrumentation
-
-[![Go Version](https://img.shields.io/badge/go-1.24+-blue.svg)](https://golang.org)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+<div align="center">
+  <img src="images/logo.png" alt="StarTower Orb" width="200"/>
+  
+  # StarTower Orb
+  ### RabbitMQ OpenTelemetry Instrumentation
+  
+  [![Go Version](https://img.shields.io/badge/go-1.24+-blue.svg)](https://golang.org)
+  [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+  [![Go Reference](https://pkg.go.dev/badge/github.com/startower-observability/orb.svg)](https://pkg.go.dev/github.com/startower-observability/orb)
+</div>
 
 StarTower Orb is a Go library that provides automatic OpenTelemetry instrumentation for RabbitMQ using the `amqp091-go` client. It enables distributed tracing across your RabbitMQ-based microservices with minimal code changes.
 
